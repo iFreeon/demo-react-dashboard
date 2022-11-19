@@ -4,6 +4,15 @@ Messing around with Syncfusion components in React.
 ## Tutorials
 - https://www.youtube.com/watch?v=jx5hdo50a2M&t=7216s
 
+### Items of interest
+- https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+## Development
+Commands to get things running locally.
+```
+npm install --legacy-peer-deps
+```
+
 
 -----------------------------------------
 Getting Started with Create React App
