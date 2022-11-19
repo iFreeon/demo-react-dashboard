@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# demo-react-dashboard
+Messing around with Syncfusion components in React.
+
+## Tutorials
+- https://www.youtube.com/watch?v=jx5hdo50a2M&t=7216s
+
+
+-----------------------------------------
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
