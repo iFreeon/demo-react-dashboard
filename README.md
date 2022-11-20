@@ -1,18 +1,27 @@
 # demo-react-dashboard
 Messing around with Syncfusion components in React.
 
-## Tutorials
-- https://www.youtube.com/watch?v=jx5hdo50a2M&t=7216s
-
-### Items of interest
-- https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
-
 ## Development
 Commands to get things running locally.
 ```
 npm install --legacy-peer-deps
 ```
 
+## TODO
+- tailwind seems to be busted 18:30
+
+## Tutorials
+- https://www.youtube.com/watch?v=jx5hdo50a2M&t=7216s
+
+## Items of interest
+- https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+### Code Formatting
+- How do you automatically add a semicolon in VSCode?
+Settings (ctl-,) -> in Search bar type: 'semicolon' -> change values to 'insert' for both JS and TS, save and close. Now every time on save, VSCode will look for missing semicolons inside the file you're in and append them.
+
+- Prettier looks intersting, review later.
 
 -----------------------------------------
 Getting Started with Create React App
